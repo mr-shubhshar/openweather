@@ -1,8 +1,8 @@
 ## OpenWeather
-3-day **detailed** or **brief** weather report of your city from *[OpenWeatherMap](https://openweathermap.org)*
+3-day **detailed** or **brief** weather report of your city from *[OpenWeatherMap](https://openweathermap.org)*.
 
 ### Installing:
-  * Clone repo in a directory:
+  * (terminal) Clone repo in a directory:
 ```
 $ git clone https://github.com/mr-shubhshar/openweather.git
 ```
